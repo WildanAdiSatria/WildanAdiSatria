@@ -1,4 +1,5 @@
-## Hi there 👋
+# 👋 Hello World 👋
+## Nice to Meet You All
 
 <!--
 **WildanAdiSatria/WildanAdiSatria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning ***Cyber Security***, ***Python***, and ***SQL*** on **Cousera** and **FreeCodeCamp**
+
+- 📫 How to reach me:
+    - Email      : wildanadisatria5@gmail.com  
+    - X/Twitter  : [@WildanAdiSatria](https://x.com/WildanAdiSatria)
+    - Instagram  : [@wildanadi_satria](https://www.instagram.com/wildanadi_satria/)
+    - LinkedIn   : [Wildan Adi Satria](https://www.linkedin.com/in/wildan-adi-satria/)
